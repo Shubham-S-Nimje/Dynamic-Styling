@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dynamic-Styling/static/css/main.ceb98259.css",
+    "main.js": "/Dynamic-Styling/static/js/main.c35c2d4c.js",
+    "index.html": "/Dynamic-Styling/index.html",
+    "main.ceb98259.css.map": "/Dynamic-Styling/static/css/main.ceb98259.css.map",
+    "main.c35c2d4c.js.map": "/Dynamic-Styling/static/js/main.c35c2d4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceb98259.css",
+    "static/js/main.c35c2d4c.js"
+  ]
+}
